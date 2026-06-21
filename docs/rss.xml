@@ -1,2 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>技术博客张</title><link>https://YardZhangoutside.github.io</link><description>Blog description</description><copyright>技术博客张</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://svgsilh.com/svg/1327957.svg</url><title>avatar</title><link>https://YardZhangoutside.github.io</link></image><lastBuildDate>Sun, 21 Jun 2026 02:54:42 +0000</lastBuildDate><managingEditor>技术博客张</managingEditor><ttl>60</ttl><webMaster>技术博客张</webMaster><item><title>个人博客测试</title><link>https://YardZhangoutside.github.io/post/ge-ren-bo-ke-ce-shi.html</link><description>hello word。</description><guid isPermaLink="true">https://YardZhangoutside.github.io/post/ge-ren-bo-ke-ce-shi.html</guid><pubDate>Sun, 21 Jun 2026 02:39:02 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>技术博客张</title><link>https://YardZhangoutside.github.io</link><description>Blog description</description><copyright>技术博客张</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://svgsilh.com/svg/1327957.svg</url><title>avatar</title><link>https://YardZhangoutside.github.io</link></image><lastBuildDate>Sun, 21 Jun 2026 03:51:58 +0000</lastBuildDate><managingEditor>技术博客张</managingEditor><ttl>60</ttl><webMaster>技术博客张</webMaster><item><title>世界上最简单的个人博客搭建</title><link>https://YardZhangoutside.github.io/post/shi-jie-shang-zui-jian-dan-de-ge-ren-bo-ke-da-jian.html</link><description># 快速搭建个人博客流程
+## 个人博客仓库以及免费域名的申请
+1.访问网站  https://github.com/Meekdai/Gmeek
+2.点击:
+  &lt;img width='1568' height='601' alt='Image' src='https://github.com/user-attachments/assets/21846d61-22ec-41e2-b4ae-975b5deb217f' /&gt;
+
+
+3.然后按照（你的github名字+.github.io）的形式来申请一个自己的域名（这里我之前申请过了）
+
+&lt;img width='1365' height='286' alt='Image' src='https://github.com/user-attachments/assets/af96229d-6c52-4062-aeaa-b8ccc6803f43' /&gt;
+
+4.写好后点击右下角Create repository即可完成创建。</description><guid isPermaLink="true">https://YardZhangoutside.github.io/post/shi-jie-shang-zui-jian-dan-de-ge-ren-bo-ke-da-jian.html</guid><pubDate>Sun, 21 Jun 2026 03:49:41 +0000</pubDate></item><item><title>个人博客测试</title><link>https://YardZhangoutside.github.io/post/ge-ren-bo-ke-ce-shi.html</link><description>hello word。</description><guid isPermaLink="true">https://YardZhangoutside.github.io/post/ge-ren-bo-ke-ce-shi.html</guid><pubDate>Sun, 21 Jun 2026 02:39:02 +0000</pubDate></item></channel></rss>
